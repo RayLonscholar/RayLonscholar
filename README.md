@@ -1,4 +1,10 @@
-### Hi there 👋
+#LonLon123
+## 🌟 About Me
+- I'm majoring in CSIE`(資訊工程系)`.
+- I like developing convenient applications and designing GUI.
+
+## 📡 技能
+- `Java` `JavaScript` `Lua` `Dart` `Python` `C` `C++` `HTML` `CSS` `Go` `C#`
 
 <!--
 **RayLonscholar/RayLonscholar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
