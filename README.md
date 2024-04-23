@@ -1,11 +1,13 @@
-#LonLon123
-## 🌟 About Me
+# LonLon123
+## ✨ About Me
 - I'm majoring in CSIE`(資訊工程系)`.
 - I like developing convenient applications and designing GUI.
 
-## 📡 技能
-- `Java` `JavaScript` `Lua` `Dart` `Python` `C` `C++` `HTML` `CSS` `Go` `C#`
+## 🌱 Skill
+- <h3 align="left">Languages：</h3>
+  <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> </p>
 
+## 📚️Project
 <!--
 **RayLonscholar/RayLonscholar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
