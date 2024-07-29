@@ -1,4 +1,3 @@
-# LonLon123
 ## ✨ About Me
 - I was born on 01/07/2004.
 - I'm majoring in CSIE`(資訊工程系)`.
