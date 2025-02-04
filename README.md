@@ -2,6 +2,7 @@
 - I was born on 01/07/2004.
 - I'm majoring in CSIE`(資訊工程系)`.
 - I like developing convenient applications and designing GUI.
+<img src="https://safebooru.org//images/4242/927d7bd5a7d621209c4d16e1a9479703a7cdcafc.gif?4430027" width="35%" align="right">
 
 ## 🌱 Skill
 - <h3>Languages：</h3>
@@ -20,5 +21,3 @@
   
 ## 📚 History
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RayLonscholar&count_private=true&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayLonscholar&layout=compact&theme=tokyonight)
