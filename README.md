@@ -8,16 +8,16 @@
 - <h3>Languages：</h3>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,js,html,css,mysql,sqlite"/>
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,js,html,css,mysql,sqlite" width="60%"/>
     </a>
   </p>
 - <h3>Tools：</h3>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,figma,firebase,visualstudio,vscode"/>
+      <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,figma,firebase,visualstudio,vscode" width="40%"/>
     </a>
   </p>
   
   
 ## 📚 History
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RayLonscholar&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RayLonscholar&count_private=true&show_icons=true&theme=tokyonight&card_width=400px)
