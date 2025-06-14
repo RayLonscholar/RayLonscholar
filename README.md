@@ -53,4 +53,4 @@
   </p>
   
 ## 📚 History
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RayLonscholar&count_private=true&show_icons=true&theme=tokyonight&card_width=400px)
+![GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/RayLonscholar?cardType=level-alternate&theme=tokyonight&preferLogin=false)
