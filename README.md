@@ -1,7 +1,20 @@
-![counter](https://count.getloli.com/@Raylonscholar?name=Raylonscholar&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=300&section=header&text=RayLon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=51&descAlign=62"/>
+</p>
+
 ## ✨ About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=500&lines=Hi+there%2C+I'm+a+college+student;I'm+focusing+on+DevOps;I+like+develop+Apps+%7C+AIoT;Exploring+AI+and+Edge+Computing)](https://git.io/typing-svg)
-<img src="https://safebooru.org//images/4242/927d7bd5a7d621209c4d16e1a9479703a7cdcafc.gif?4430027" width="35%" align="right"/>
+
+I'm a college student.
+
+🎓**Education**: BS in Computer Science and Information Engineering from China University of Technology (Taipei Campus)
+
+🎯**Focusing on**: DevOps
+
+⭐**Specializing in**: Full-stack, processing automation
+
+🧭**Exploring**: AIoT and Edge Computing
+
+📫**How to reach me**: owo@raylon.dev
 
 ## 🌱 Skill
 - <h3>Languages</h3>
@@ -54,3 +67,6 @@
   
 ## 📚 History
 ![GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/RayLonscholar?cardType=level-alternate&theme=tokyonight&preferLogin=false)
+
+## Number of visitors
+![counter](https://count.getloli.com/@Raylonscholar?name=Raylonscholar&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
