@@ -29,6 +29,7 @@ I'm a college student.
       <img src="https://img.shields.io/badge/Javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-%23323330?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kotlin-%23323330?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Php-%23323330?style=for-the-badge&logo=php&logoColor=white"/>
     </span>
   </p>
 - <h3>Frameworks</h3>
