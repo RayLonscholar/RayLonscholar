@@ -6,15 +6,15 @@
 
 I'm a college student.
 
-🎓**Education**: BS in Computer Science and Information Engineering from China University of Technology (Taipei Campus)
+🎓**Education**: B.S. in Computer Science and Information Engineering from CUTe
 
 🎯**Focusing on**: DevOps
 
-⭐**Specializing in**: Full-stack, processing automation
+⭐**Specializing in**: Full-stack, processing automation workflow
 
-🧭**Exploring**: AIoT and Edge Computing
+🧭**Exploring**: AI News and AIoT
 
-📫**How to reach me**: owo@raylon.dev
+📫**How to contact me**: owo@raylon.dev
 
 ## 🌱 Skill
 - <h3>Languages</h3>
@@ -93,9 +93,7 @@ I'm a college student.
   </p>
   
 ## 📚 History
-![GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/RayLonscholar?cardType=level-alternate&theme=tokyonight&preferLogin=false)
+![GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/RayLonscholar?cardType=github&theme=blueberry&fontFamily=Akaya%20Telivigala&preferLogin=false)
 
 ## Number of visitors
 ![counter](https://count.getloli.com/@Raylonscholar?name=Raylonscholar&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
-## Project
